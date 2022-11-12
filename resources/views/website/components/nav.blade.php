@@ -76,29 +76,7 @@
 
 
 <div data-section-id="header" data-section-type="header-section" data-header-section>
-  <header id="header"><section class="text-center announcement-bar   hide-mobile"><a href="collections.html" >20% OFF ON ORGANIC SOAPS
-</a><a href="javascript:void(0)" class="close close-icon dt-sc-btn"></a>
-</section><style>
-  .announcement-bar{ 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position:relative; 
-    clear:both; 
-    width:100%; 
-    transition: all .3s linear; 
-  }
-  .announcement-bar>*{ margin:0; }
-  .announcement-bar .close-icon{ background: transparent; position: absolute; transform: translateY(-50%); top: 50%; right: 15px;}
-  .announcement-bar:empty{ display:none;}
-</style>
-
-    
-    
-    
-    
-    
-
+  <header id="header">
     <section class="dt-sc-header-logo-sec sticky-header " id="sticky-header">
       <div class="container spacing_enabled"> 
         <div class="row">
