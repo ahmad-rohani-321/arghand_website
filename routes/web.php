@@ -19,5 +19,6 @@ Route::get('/', function () {
 Route::get('/command/{type}',function($type){
     return Artisan::call($type);
 });
-
-
+Route::get('/services', function(){
+    return view('website.contents.services');
+});
