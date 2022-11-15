@@ -25,7 +25,7 @@
               
     
               
-              <div  class=" footer__item--adeea2c9-cb9e-4124-a1bd-b2ffe04b0ef7 footer-logo">
+              <div class=" footer__item--adeea2c9-cb9e-4124-a1bd-b2ffe04b0ef7 footer-logo">
                 <div class="text-start">
     
       
@@ -34,7 +34,7 @@
       </a>
       
     
-      <p>Smell fresh and feel fresh.<br><br><br><a href="#">@_savonsoap</a></p>
+      <p>Smell fresh and feel fresh.<br><br><br><a href="http://arghandskincare.com">arghandskincare.com</a></p>
     
     </div>
     
@@ -49,27 +49,7 @@
               
     
               
-              <div  class=" footer__item--041c1183-41a7-45e8-aca7-db7072515499 footer-links">
-                
-    <div class="text-start">
-            
-      <h5 class="footer__title"> About </h5>
-      
-      <ul class="footer_menu dt-sc-list">
-        
-        <li><a href="pages/about.html">Terms of Service          </a></li>
-        
-        <li><a href="pages/faq.html">Terms & Condition</a></li>
-        
-        <li><a href="pages/faq.html">Terms of Delivery</a></li>
-        
-        <li><a href="pages/about.html">Delivery Information</a></li>
-        
-      </ul>
-    </div>
-    
-    
-              </div>
+              
               
               
               
@@ -79,27 +59,7 @@
               
     
               
-              <div  class=" footer__item--02c9416a-020d-47db-8e3a-02bd33f704d6 footer-links">
-                
-    <div class="text-start">
-            
-      <h5 class="footer__title"> Information </h5>
-      
-      <ul class="footer_menu dt-sc-list">
-        
-        <li><a href="pages/about.html">About Us</a></li>
-        
-        <li><a href="pages/contact.html">Contact Us</a></li>
-        
-        <li><a href="#">Privacy Policy</a></li>
-        
-        <li><a href="#">Shipping Details</a></li>
-        
-      </ul>
-    </div>
-    
-    
-              </div>
+              
               
               
               
@@ -109,27 +69,7 @@
               
     
               
-              <div  class=" footer__item--8b477468-7692-4db0-b93f-ba1c5459b85d footer-links">
-                
-    <div class="text-start">
-            
-      <h5 class="footer__title"> Support </h5>
-      
-      <ul class="footer_menu dt-sc-list">
-        
-        <li><a href="blogs/news.html">News</a></li>
-        
-        <li><a href="pages/contact.html">Contact </a></li>
-        
-        <li><a href="pages/contact.html">E-Mail Support</a></li>
-        
-        <li><a href="pages/contact.html">Chat Support</a></li>
-        
-      </ul>
-    </div>
-    
-    
-              </div>
+              
               
               
               
@@ -139,27 +79,7 @@
               
     
               
-              <div  class=" footer__item--a8b7e11f-93d6-48a0-82f4-ba72ffa1bacb footer-links">
-                
-    <div class="text-start">
-            
-      <h5 class="footer__title"> Help </h5>
-      
-      <ul class="footer_menu dt-sc-list">
-        
-        <li><a href="pages/faq.html">FAQ</a></li>
-        
-        <li><a href="collections.html">Catalog</a></li>
-        
-        <li><a href="search.html">Search</a></li>
-        
-        <li><a href="pages/wishlist.html">Wishlist</a></li>
-        
-      </ul>
-    </div>
-    
-    
-              </div>
+              
               
               
             </div>
@@ -421,4 +341,4 @@
       
     </style>
     
-    </div>  
+    </div>

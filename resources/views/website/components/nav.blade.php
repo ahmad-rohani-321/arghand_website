@@ -105,37 +105,21 @@
 
 
 <li class="0 text-menu top-level-link  dt-sc-child active ">
-  <a href="index.html" class="  dt-sc-nav-link dropdown"> 
+  <a href="/" class="  dt-sc-nav-link dropdown"> 
     Home 
   </a>
 
   
 
 </li>
- 
-
-
- 
-
-
-<!-- Product --><!-- Product End -->
-
-
-
-
-
-
-
-
-
 
 <li class="2 promo_image
            top-level-link 
             has-mega-menu dt-sc-primary
            
             menu-item-has-children">
-  <a href="collections/all.html" class=" mega-menu dt-sc-nav-link dropdown"> 
-    Bath Soap 
+  <a href="/products" class=" mega-menu dt-sc-nav-link dropdown"> 
+    Products
   </a>
 
   
@@ -146,80 +130,50 @@
     <div class="see-all"></div>
     <div class="dt-sc-dropdown-menu dt-sc--main-menu--mega  dt-sc_main-menu--has-links" id="bath-soap-2-dt-sc-menu">
       <ul class="sub-menu-lists  dt-sc-column one-three-sixth-one   "><li class="">
-          <h5> <a href="collections/fairness-soap.html" >
-            Fairness Soap
-            </a>
-          </h5><ul><li class="">
+        <ul>
+          <li class="">
+              <a href="#" >
+              Amandine Soap Stone
+              </a>
+            </li>  
+          <li class="">
               <a href="products/aloe-vera-soap.html" >
-                Aloe Vera Soap
+                Anaisette Soap Stone 
               </a>
             </li><li class="">
               <a href="products/natural-soap.html" >
-                Natural Soap
+              Desert Fields Soap Stone 
               </a>
             </li><li class="">
               <a href="products/shea-butter-soap.html" >
-                Shea Butter Soap
+              Kandahar Rose Soap Stone 
               </a>
-            </li><li class="">
-              <a href="#" >
-                Luscious Soap
-              </a>
-            </li><li class="">
-              <a href="#" >
-                Scrubbing Soaps
-              </a>
-            </li></ul></li><li class="">
-          <h5> <a href="collections/deep-cleanse-soap.html" >
-            Deep Clean Soap
-            </a>
-          </h5><ul><li class="">
+            </li>
+          </ul></li><li class="">
+            <ul>
+            <li class="">
               <a href="products/argan-soap.html" >
-                Argan Soap
+              Asorted pebbles Soap Stone 
               </a>
-            </li><li class="">
-              <a href="products/organic-soap.html" >
-                Organic Soap
-              </a>
-            </li><li class="">
+            </li>
+            <li class="">
               <a href="#" >
-                Soothing Soap
+              Elixir Of Artemis Soap Stone 
               </a>
-            </li><li class="">
+            </li>
+            <li class="">
               <a href="#" >
-                Joyful Skin Soap
+              Montain Mint Soap Stone 
               </a>
-            </li><li class="">
-              <a href="#" >
-                The Bro Bars
+            </li>
+            <li class="">
+              <a href="products/argan-soap.html" >
+              Pomegranate Soap Stone
               </a>
-            </li></ul></li><li class="">
-          <h5> <a href="collections/skin-whitening-soap.html" >
-            Skin Whiten Soap
-            </a>
-          </h5><ul><li class="">
-              <a href="products/body-scrub-soap.html" >
-                Body Scrub Soap
-              </a>
-            </li><li class="">
-              <a href="products/papaya-soap.html" >
-                Papaya Soap
-              </a>
-            </li><li class="">
-              <a href="#" >
-                Bright Soap
-              </a>
-            </li><li class="">
-              <a href="#" >
-                Beauty Bars
-              </a>
-            </li><li class="">
-              <a href="#" >
-                Thy Skin Soap
-              </a>
-            </li></ul></li>       
+            </li>
+          </ul></li>      
         
-        <!-- Image with text --><li class="dt-sc-menu-image-with-text top-level-link">
+        <!-- Image with text <li class="dt-sc-menu-image-with-text top-level-link">
   <div class="dt-sc-mega_menu text-center"><a href="collections.html"  class="dt-sc-mega_menu-link"><img class="lazyload"
          src="/assets/loading.gif"
          data-src="/assets/files/Savon_Mega_Menu_-_2_b4d3cfe6-e547-445c-ae9d-73e6df813014b50b.png"
@@ -231,8 +185,8 @@
       <img src="/assets/files/Savon_Mega_Menu_-_2_b4d3cfe6-e547-445c-ae9d-73e6df813014_480x480%402xb50b.png" class="dt-sc-noscript-image" />
     </noscript></a><div class="dt-sc-details"></div>
   </div>
-</li><!-- Image with text  End-->
-<!-- Image with text --><li class="dt-sc-menu-image-with-text top-level-link">
+</li>--><!-- Image with text  End-->
+<!-- Image with text <li class="dt-sc-menu-image-with-text top-level-link">
   <div class="dt-sc-mega_menu text-center"><a href="collections.html"  class="dt-sc-mega_menu-link"><img class="lazyload"
          src="/assets/loading.gif"
          data-src="/assets/files/Savon_Mega_Menu_-_1_879885b8-6052-4044-a6fc-4610b50e2e85b50b.png"
@@ -244,7 +198,7 @@
       <img src="/assets/files/Savon_Mega_Menu_-_1_879885b8-6052-4044-a6fc-4610b50e2e85_480x480%402xb50b.png" class="dt-sc-noscript-image" />
     </noscript></a><div class="dt-sc-details"></div>
   </div>
-</li><!-- Image with text  End-->
+</li>--><!-- Image with text  End-->
 <!-- Image with text --><!-- Image with text  End-->
 <!-- Image with text --><!-- Image with text  End-->
 
@@ -259,25 +213,13 @@
 
 
 
-
-
-
-
-
- 
-
-
-<!-- Product --><!-- Product End -->
-
-
-
 <li class="2 promo_image
            top-level-link 
             has-mega-menu dt-sc-primary
            
             menu-item-has-children">
-  <a href="collections.html" class=" mega-menu dt-sc-nav-link dropdown"> 
-    Collections 
+  <a href="/services" class=" mega-menu dt-sc-nav-link dropdown"> 
+    Services 
   </a>
 
   
@@ -414,9 +356,6 @@
     </noscript></a><div class="dt-sc-details"></div>
   </div>
 </li><!-- Image with text  End-->
-<!-- Image with text --><!-- Image with text  End-->
-<!-- Image with text --><!-- Image with text  End-->
-<!-- Image with text --><!-- Image with text  End-->
 
                
         
@@ -430,9 +369,8 @@
               
 
 <div  class="logo">
-  <a href="index.html">
-    
-    <img src="/assets/files/logo_300x3003a7e.png"  alt="arghand skin care"  style="max-width: 95px">
+  <a href="/">
+    <h3 style="width:200px;margin:0px;">Arghand</h3>
   </a> 
 </div>
  
@@ -445,65 +383,13 @@
 
 
 
-
-
-
-
-
-
-
-
-<li class="1 text-menu
-           top-level-link 
-            dt-sc-child
-           
-            menu-item-has-children">
-  <a href="pages/about.html" class="  dt-sc-nav-link dropdown"> 
-    Pages 
-  </a>
-
-  
-<div class="sub-menu-block is-hidden">
-    <div class="go-back">
-      <a href="javascript:void(0);"></a>
-    </div>
-    <div class="see-all"></div>
-    <div class="dt-sc-dropdown-menu dt-sc_main-menu--has-links" id="pages-1-dt-sc-menu">
-      <ul class="sub-menu-lists"><li class=" ">
-          <a href="pages/about.html" >
-            About
-          </a></li><li class=" ">
-          <a href="pages/services.html" >
-            Services
-          </a></li><li class=" ">
-          <a href="pages/faq.html" >
-            FAQ
-          </a></li></ul>
-    </div>
-  </div>  
-  
-</li>
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <li class="0 text-menu
            top-level-link 
             dt-sc-child
            
             ">
   <a href="blogs/news.html" class="  dt-sc-nav-link dropdown"> 
-    News 
+    About Us 
   </a>
 
   
@@ -555,22 +441,9 @@
 </g>
 </svg>
 
-    <span class="icon__fallback-text">Sign In</span>
+    <span class="icon__fallback-text"></span>
   </a>
-  
-  
-
-  
-  <a href="cart.html" class="site-header__cart-toggle js-drawer-open-right dT_MiniCartModelBtn" aria-controls="CartDrawer" aria-expanded="false"  id="cart-number">
-    <svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 100 100" xml:space="preserve">
-<g>
-	<path d="M94.4,22.7c-0.4-0.1-0.8-0.2-1.2-0.2H77.5h-7.8H46.1h-7.8h-9.8L25,12.8c-2.1-6-7.8-10-14.2-9.9H6.8c-2.2,0-3.9,1.8-3.9,3.9
-		s1.8,3.9,3.9,3.9h3.9c3,0,5.7,1.9,6.7,4.7l15.2,42.4c1.7,4.7,6.1,7.8,11.1,7.8h32c5.1,0,9.6-3.2,11.2-8l10-30
-		C97.6,25.6,96.5,23.4,94.4,22.7z"/>
-	<circle cx="42.1" cy="85.3" r="11.8"/>
-	<circle cx="73.5" cy="85.3" r="11.8"/>
-</g>
+ 
 </svg>
 
     <span class="icon__fallback-text">Your Cart</span>
