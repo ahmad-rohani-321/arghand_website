@@ -104,11 +104,7 @@
 
 
 
-<li class="0 text-menu
-           top-level-link 
-            dt-sc-child
-           
-           active ">
+<li class="0 text-menu top-level-link  dt-sc-child active ">
   <a href="index.html" class="  dt-sc-nav-link dropdown"> 
     Home 
   </a>
